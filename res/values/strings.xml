@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FUECAPPActivity!</string>
+    <string name="app_name">Shift Up Adviser</string>
+    <color name="myColor">#99C224</color>
+    <string name="myClickHandler">myClickHandler</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="nissanfuecapp">NISSAN FUECAPP</string>
+    <string name="stop">Stop</string>
+    <string name="overall">Overall </string>
+    <string name="accel">Accel/Decel</string>
+    <string name="fuel_wastage">EST. FUEL WASTAGE(litres)</string>
+    <string name="idling">&lt;Idling&gt;</string>
+    <string name="gearshift">&lt;GearShift&gt;</string>
+    <color name="textcolor">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <string name="stopClickHandler">stopClickHandler</string>
+    <string name="score">RATING</string>
+    <string name="pedal">Acc_Pedal</string>
+    <string name="speed">Speed</string>
+    <string name="post_trip_button">Post Trip</string>
+    <string name="gear">Current Gear</string>
+    <string name="cost">Rupees</string>
+    <color name="myred">#ff0000</color>
+      <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="tripScore">Driving Score:</string>
+    <string name="tripFuelConsumption">Total Fuel Consumption</string>
+    <string name="tripFuelWastage">Total Fuel Wastage</string>
+    <string name="tripInfo">Trip Statistics</string>
+    <string name="total">Total</string>
+    <string name="litres">Fuel</string>
+    <string name="hundred_float">100.00</string>
+    <string name="tripDistance">Distance</string>
+    <string name="tripKMpl">Mileage</string>
+    <string name="distance_unit">Km</string>
+    <string name="mileage_unit">Km/L</string>
+    <string name="fuel_unit">L</string>
+    <string name="points">points</string>
+    <string name="back">Back</string>
+    <string name="thousand">1000.00</string>
+    <string name="hundred_int">100</string>
+    <string name="history">HISTORY</string>
+    <string name="history_title">HISTORY</string>
+    <string name="settings">Settings</string>
+    <string name="idlingTime">Idling Time : (Seconds)</string>
+    <string name="save">Save</string>
+</resources>
